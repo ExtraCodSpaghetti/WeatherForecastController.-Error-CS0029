@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursASP.NET_CoreREST_WebAPI", "KursASP.NET_CoreREST_WebAPI.csproj", "{49467BDD-83E0-4DC5-AF0B-EAC470069CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49467BDD-83E0-4DC5-AF0B-EAC470069CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49467BDD-83E0-4DC5-AF0B-EAC470069CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49467BDD-83E0-4DC5-AF0B-EAC470069CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49467BDD-83E0-4DC5-AF0B-EAC470069CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966A393C-DC18-41D3-A480-4B08124BF782}
+	EndGlobalSection
+EndGlobal

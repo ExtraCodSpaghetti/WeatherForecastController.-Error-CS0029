@@ -1,0 +1,6 @@
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.csproj.AssemblyReference.cache
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.AssemblyInfoInputs.cache
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.AssemblyInfo.cs
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.csproj.CoreCompileInputs.cache
+F:\C#_all\files\KursASP.NET_CoreREST_WebAPI\obj\Debug\net5.0\KursASP.NET_CoreREST_WebAPI.MvcApplicationPartsAssemblyInfo.cache
